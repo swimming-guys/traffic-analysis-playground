@@ -1,4 +1,4 @@
-![alt text](https://gitlab.com/banzr/traffic-analysis-playground/-/raw/master/preview.png)
+![alt text](https://gitlab.com/banzr/traffic-analysis-playground/-/raw/master/preview.png | width=384)
 
 ## Available Scripts
 
