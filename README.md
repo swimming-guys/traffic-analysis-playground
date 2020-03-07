@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[preview]: https://gitlab.com/banzr/traffic-analysis-playground/-/raw/master/preview.png
 
 ## Available Scripts
 
