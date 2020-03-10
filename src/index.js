@@ -51,6 +51,8 @@ class Car extends React.Component {
             });
         };
 
+
+        // TODO Animate 'tween' car around circle
         /* var parent = this._reactInternalInstance._currentElement._owner._instance;
 
          * var anim = new Konva.Animation(function(frame) {
@@ -67,8 +69,6 @@ class Car extends React.Component {
     lane1Radius = this.centerX * .487
     carCenter = this.carSize / 2
     lanes = [this.lane1Radius]
-
-
 
     getX(locationRadian) {
         return this.centerX + (this.lanes[this.props.lane - 1] * Math.cos(locationRadian));
